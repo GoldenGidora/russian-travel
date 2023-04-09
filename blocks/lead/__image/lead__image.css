@@ -2,3 +2,15 @@
     max-width: 984px;
     display: block;
 }
+
+@media screen and (max-width: 1279px) {
+    .lead__image {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .lead__image {
+        margin-top: 40px;
+    }
+}
