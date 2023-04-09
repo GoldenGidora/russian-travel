@@ -15,5 +15,4 @@ BEM
 Flexbox
 Grid
 
-[Ссылка на сайт (клик)]: (https://goldengidora.github.io/russian-travel/)
-1
+[Ссылка на сайт (клик)](https://goldengidora.github.io/russian-travel/)
